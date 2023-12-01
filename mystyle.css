@@ -1,0 +1,22 @@
+.title-green{
+    color: green;
+}
+h2{
+    color: red;
+}
+ul{
+    color: orange;
+}
+ul#blue-colour{
+    color: blue;
+}
+ul #magenta{
+    color: magenta;
+}
+.Developed{
+    color: brown;
+}
+body{
+    margin: 20px;
+}
+
